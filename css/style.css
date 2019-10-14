@@ -1,0 +1,108 @@
+/* Minhas classes para móbile */
+
+.conteudo{
+	
+	
+} 
+
+/* FIM Minhas classes para móbile */
+
+
+@media (min-width : 320px) {
+
+}
+
+
+
+@media (min-width : 480px) {
+	
+}
+
+@media (min-width : 768px) {
+
+
+}
+
+@media (min-width : 992px) {
+	}
+
+/* Minhas classes para Desktops */
+
+    .conteudo{		
+		
+		
+	} 
+
+/* FIM Minhas classes para Desktops */
+
+}
+
+@media (min-width : 1200px) {
+	
+}
+/* site desemvolvidor por um amador sem conhecimento */
+
+
+/*
+*{		margin: 0;
+				padding: 0;}
+			body {
+				background-color: #f9f9f9;
+		}
+			#check{
+				display: none;}
+			#icone{ cursor: pointer;
+			padding: 25px;
+				position: absolute;
+				z-index: 1;
+			}
+.barra	{
+				color: #333;
+				height: 100%;
+				width: 300px;
+				position: absolute;
+				transition: all .2s linear;
+	left: -300px;
+			}		
+			nav {
+				width: 100%;
+				position: absolute;
+				top: 60px;
+				
+			}			
+			
+			nav a {
+				text-decoration: none;
+				
+				
+			}
+			.link {
+				background-color: #494950;
+				padding: 20px;
+				font-family: 'Arial';
+				font-size: 12pt;
+				transition: all .2s linear;
+				color: #f9f950
+					border-bottom: 2px solid #222;
+				opacity: 1;
+				margin-top: 200px;
+			}
+			
+			.link:hover{
+				background-color: #050542;	
+			}
+			
+	#check:checked ~ .barra{
+		transform: translateX(300px);
+		
+	}	
+	#check:checked ~ .barra nav a .link{ 
+		opacity: 1;
+		margin-top: 0;
+		transition-delay: .2s;
+	}
+	.link{
+		color: #ffffff;
+		
+	} */
+	
